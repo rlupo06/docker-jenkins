@@ -1,0 +1,31 @@
+Started by user [8mha:////4Le9VofV/8n71CBXZ4U8LBu5WLv9ssoWZt5FmZjE98H0AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9tMyi4hIQCwARuC+qxAAAAA==[0mFirstUser
+Building remotely on [8mha:////4LlMuKWfCmrCrxkfhEmW4YuCuQW4aBxSEzZdkj/HBtBFAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyREgY5/eT83ILSktQi/cT01LwSXQtTcwsDcwtDcyMTS0NTACFQfAjTAAAA[0magent-85780781724915 in workspace /home/jenkins/workspace/First Project
+[First Project] $ sh -xe C:\Users\ContainerAdministrator\AppData\Local\Temp\jenkins7108970409034445915.sh
++ cd /c/Users/ContainerAdministrator
++ cd ..
++ cd ..
++ pwd
+/c
++ ls
+BOOTNXT
+Boot
+BuildTools_Full.exe
+Documents and Settings
+Java
+License.txt
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Users
+Windows
+bootmgr
+curl
+curl-7.59.0.zip
+entrypoint.cmd
+git-1.9.5.exe
+home
+install
+mingw
+nuget.exe
+Finished: SUCCESS

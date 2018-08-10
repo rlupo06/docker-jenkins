@@ -1,0 +1,24 @@
+Started by user [8mha:////4Le9VofV/8n71CBXZ4U8LBu5WLv9ssoWZt5FmZjE98H0AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9tMyi4hIQCwARuC+qxAAAAA==[0mFirstUser
+Building remotely on [8mha:////4PdAUvoEp7g54bcm9i+WJr2OzVhxBCk6zs2I5AMAimZ9AAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyREgY5/eT83ILSktQi/cT01LwSXUszSxNjcwsDc1NTIBMAbk25ytMAAAA=[0magent-96943780755969 in workspace /home/jenkins/workspace/First Project
+Cloning the remote Git repository
+Cloning repository https://github.com/rlupo06/csharp-specflow-restsharp.git
+ > git init C:\home\jenkins\workspace\First Project # timeout=10
+Fetching upstream changes from https://github.com/rlupo06/csharp-specflow-restsharp.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/rlupo06/csharp-specflow-restsharp.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/rlupo06/csharp-specflow-restsharp.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/rlupo06/csharp-specflow-restsharp.git # timeout=10
+Fetching upstream changes from https://github.com/rlupo06/csharp-specflow-restsharp.git
+ > git fetch --tags --progress https://github.com/rlupo06/csharp-specflow-restsharp.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision ce75a01b1af0d37b3bb3ab564815d730a066dc3f (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ce75a01b1af0d37b3bb3ab564815d730a066dc3f
+Commit message: "Update PostPostalCode.feature"
+ > git rev-list --no-walk ce75a01b1af0d37b3bb3ab564815d730a066dc3f # timeout=10
+[First Project] $ sh -xe C:\Users\ContainerAdministrator\AppData\Local\Temp\jenkins808133255171805623.sh
++ git version
+git version 2.18.0.windows.1
+Finished: SUCCESS

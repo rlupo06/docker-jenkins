@@ -1,0 +1,24 @@
+Started by user [8mha:////4Le9VofV/8n71CBXZ4U8LBu5WLv9ssoWZt5FmZjE98H0AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9tMyi4hIQCwARuC+qxAAAAA==[0mFirstUser
+Building remotely on [8mha:////4EKe85AHiZy+IdNH7CnpKb5421k0L2zXQo1OnentBUO1AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyREgY5/eT83ILSktQi/cT01LwSXUtzQyNDIwtTC0Mjc0szAHuSdGHTAAAA[0magent-97121285812796 in workspace /home/jenkins/workspace/First Project
+Cloning the remote Git repository
+Cloning repository https://github.com/rlupo06/csharp-specflow-restsharp.git
+ > git init C:\home\jenkins\workspace\First Project # timeout=10
+Fetching upstream changes from https://github.com/rlupo06/csharp-specflow-restsharp.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/rlupo06/csharp-specflow-restsharp.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/rlupo06/csharp-specflow-restsharp.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/rlupo06/csharp-specflow-restsharp.git # timeout=10
+Fetching upstream changes from https://github.com/rlupo06/csharp-specflow-restsharp.git
+ > git fetch --tags --progress https://github.com/rlupo06/csharp-specflow-restsharp.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision ce75a01b1af0d37b3bb3ab564815d730a066dc3f (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ce75a01b1af0d37b3bb3ab564815d730a066dc3f
+Commit message: "Update PostPostalCode.feature"
+ > git rev-list --no-walk ce75a01b1af0d37b3bb3ab564815d730a066dc3f # timeout=10
+[First Project] $ sh -xe C:\Users\ContainerAdministrator\AppData\Local\Temp\jenkins743394961940749816.sh
++ dir
+README.md  Specflow.RestSharp  Specflow.RestSharp.sln
+Finished: SUCCESS
