@@ -1,2 +1,2 @@
 # docker-jenkins
-Under Construction: Containerized CI server
+Containerized CI server
