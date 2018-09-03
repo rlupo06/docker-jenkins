@@ -7,6 +7,6 @@ services:
        - 50000:50000
     container_name: jenkinsserver
     volumes:
-       - /home/rob/Downloads/Jenkins:/var/jenkins_home
+       - RobJenkins:/var/jenkins_home
 
    
